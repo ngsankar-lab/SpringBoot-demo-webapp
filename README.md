@@ -12,5 +12,5 @@ Run the app as a Spring boot app
 Access the app
 --------------
 http://localhost:8080/
-We don't see any out on the webpage for this example.
+We don't see any output on the webpage for this example.
 you can see the SOP in the STS Console.
